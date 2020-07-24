@@ -69,13 +69,13 @@ const Home = (props) => (
                       top: 'small',
                       left: 'small',
                       right: 'xlarge',
-                      bottom: 'small',
+                      bottom: 'medium',
                     }
                   : {
                       top: 'small',
                       left: 'small',
                       right: '300px',
-                      bottom: 'small',
+                      bottom: 'large',
                     }
               }
               pad={{ right: 'xlarge' }}
